@@ -1,0 +1,643 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`AnalysisPage > renders the feedback component 1`] = `
+<DocumentFragment>
+  <div>
+    <h5
+      class="MuiTypography-root sc-bczRLJ WGVdy MuiTypography-h5 MuiTypography-gutterBottom"
+      data-test="page-header-title"
+    >
+      Analysis
+    </h5>
+  </div>
+  <div
+    class="sc-crXcEl hExMIs makeStyles-root-10"
+  >
+    <div
+      class="MuiPaper-root MuiStepper-root MuiStepper-horizontal Wizard-Stepper makeStyles-stepper-15 MuiPaper-elevation0"
+    >
+      <div
+        class="MuiStep-root MuiStep-horizontal Wizard-Step"
+      >
+        <button
+          class="MuiButtonBase-root MuiStepButton-root makeStyles-stepButton-14 MuiStepButton-horizontal current-step"
+          data-test-current="true"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal"
+          >
+            <span
+              class="MuiStepLabel-iconContainer"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="12"
+                />
+                <text
+                  class="MuiStepIcon-text"
+                  text-anchor="middle"
+                  x="12"
+                  y="16"
+                >
+                  1
+                </text>
+              </svg>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer"
+            >
+              <span
+                class="MuiTypography-root MuiStepLabel-label MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+              >
+                Configuration
+              </span>
+            </span>
+          </span>
+          <span
+            class="MuiTouchRipple-root MuiStepButton-touchRipple"
+          />
+        </button>
+      </div>
+      <div
+<<<<<<< HEAD
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-completed Mui-disabled"
+=======
+        class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+>>>>>>> development
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <div
+<<<<<<< HEAD
+        class="MuiStep-root MuiStep-horizontal Wizard-Step MuiStep-completed"
+=======
+        class="MuiStep-root MuiStep-horizontal Wizard-Step"
+>>>>>>> development
+      >
+        <button
+          class="MuiButtonBase-root MuiStepButton-root makeStyles-stepButton-14 MuiStepButton-horizontal Mui-disabled"
+          data-test-current="false"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+          >
+            <span
+              class="MuiStepLabel-iconContainer"
+            >
+              <svg
+                aria-hidden="true"
+<<<<<<< HEAD
+                class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+                />
+=======
+                class="MuiSvgIcon-root MuiStepIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="12"
+                />
+                <text
+                  class="MuiStepIcon-text"
+                  text-anchor="middle"
+                  x="12"
+                  y="16"
+                >
+                  2
+                </text>
+>>>>>>> development
+              </svg>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer"
+            >
+              <span
+<<<<<<< HEAD
+                class="MuiTypography-root MuiStepLabel-label MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+=======
+                class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+>>>>>>> development
+              >
+                Outliers
+              </span>
+            </span>
+          </span>
+        </button>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal Wizard-Step"
+      >
+        <button
+          class="MuiButtonBase-root MuiStepButton-root makeStyles-stepButton-14 MuiStepButton-horizontal Mui-disabled"
+          data-test-current="false"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+          >
+            <span
+              class="MuiStepLabel-iconContainer"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiStepIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="12"
+                />
+                <text
+                  class="MuiStepIcon-text"
+                  text-anchor="middle"
+                  x="12"
+                  y="16"
+                >
+                  3
+                </text>
+              </svg>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer"
+            >
+              <span
+                class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+              >
+                Trends
+              </span>
+            </span>
+          </span>
+        </button>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal Wizard-Step"
+      >
+        <button
+          class="MuiButtonBase-root MuiStepButton-root makeStyles-stepButton-14 MuiStepButton-horizontal Mui-disabled"
+          data-test-current="false"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+          >
+            <span
+              class="MuiStepLabel-iconContainer"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiStepIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="12"
+                />
+                <text
+                  class="MuiStepIcon-text"
+                  text-anchor="middle"
+                  x="12"
+                  y="16"
+                >
+                  4
+                </text>
+              </svg>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer"
+            >
+              <span
+                class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+              >
+                Disaggregates
+              </span>
+            </span>
+          </span>
+        </button>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal Wizard-Step"
+      >
+        <button
+          class="MuiButtonBase-root MuiStepButton-root makeStyles-stepButton-14 MuiStepButton-horizontal Mui-disabled"
+          data-test-current="false"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+          >
+            <span
+              class="MuiStepLabel-iconContainer"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiStepIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="12"
+                />
+                <text
+                  class="MuiStepIcon-text"
+                  text-anchor="middle"
+                  x="12"
+                  y="16"
+                >
+                  5
+                </text>
+              </svg>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer"
+            >
+              <span
+                class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+              >
+<<<<<<< HEAD
+                General Practitioners
+=======
+                Doctors
+>>>>>>> development
+              </span>
+            </span>
+          </span>
+        </button>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal Wizard-Step"
+      >
+        <button
+          class="MuiButtonBase-root MuiStepButton-root makeStyles-stepButton-14 MuiStepButton-horizontal Mui-disabled"
+          data-test-current="false"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+          >
+            <span
+              class="MuiStepLabel-iconContainer"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiStepIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="12"
+                />
+                <text
+                  class="MuiStepIcon-text"
+                  text-anchor="middle"
+                  x="12"
+                  y="16"
+                >
+                  6
+                </text>
+              </svg>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer"
+            >
+              <span
+                class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+              >
+                Nursing
+              </span>
+            </span>
+          </span>
+        </button>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal Wizard-Step"
+      >
+        <button
+          class="MuiButtonBase-root MuiStepButton-root makeStyles-stepButton-14 MuiStepButton-horizontal Mui-disabled"
+          data-test-current="false"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+          >
+            <span
+              class="MuiStepLabel-iconContainer"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiStepIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="12"
+                />
+                <text
+                  class="MuiStepIcon-text"
+                  text-anchor="middle"
+                  x="12"
+                  y="16"
+                >
+                  7
+                </text>
+              </svg>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer"
+            >
+              <span
+                class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+              >
+                Midwifery
+              </span>
+            </span>
+          </span>
+        </button>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal Wizard-Step"
+      >
+        <button
+          class="MuiButtonBase-root MuiStepButton-root makeStyles-stepButton-14 MuiStepButton-horizontal Mui-disabled"
+          data-test-current="false"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+          >
+            <span
+              class="MuiStepLabel-iconContainer"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiStepIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="12"
+                />
+                <text
+                  class="MuiStepIcon-text"
+                  text-anchor="middle"
+                  x="12"
+                  y="16"
+                >
+                  8
+                </text>
+              </svg>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer"
+            >
+              <span
+                class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+              >
+                Nursing/Midwifery
+              </span>
+            </span>
+          </span>
+        </button>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal Wizard-Step"
+      >
+        <button
+          class="MuiButtonBase-root MuiStepButton-root makeStyles-stepButton-14 MuiStepButton-horizontal Mui-disabled"
+          data-test-current="false"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+          >
+            <span
+              class="MuiStepLabel-iconContainer"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiStepIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="12"
+                />
+                <text
+                  class="MuiStepIcon-text"
+                  text-anchor="middle"
+                  x="12"
+                  y="16"
+                >
+                  9
+                </text>
+              </svg>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer"
+            >
+              <span
+                class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+              >
+                Density
+              </span>
+            </span>
+          </span>
+        </button>
+      </div>
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal Wizard-Step"
+      >
+        <button
+          class="MuiButtonBase-root MuiStepButton-root makeStyles-stepButton-14 MuiStepButton-horizontal Mui-disabled"
+          data-test-current="false"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+          >
+            <span
+              class="MuiStepLabel-iconContainer"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiStepIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="12"
+                />
+                <text
+                  class="MuiStepIcon-text"
+                  text-anchor="middle"
+                  x="12"
+                  y="16"
+                >
+                  10
+                </text>
+              </svg>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer"
+            >
+              <span
+                class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+              >
+                Other
+              </span>
+            </span>
+          </span>
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root makeStyles-contents-13 MuiPaper-elevation1 MuiPaper-rounded"
+      data-wizard-contents="true"
+    >
+      <div>
+        <h2>
+          Configuration
+        </h2>
+      </div>
+      <div
+        class="Wizard-Navigation makeStyles-buttonContainer-18"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-16 Mui-disabled makeStyles-buttonDisabled-17 Mui-disabled"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            ← Previous
+          </span>
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-16"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Next →
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

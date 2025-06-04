@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2024-11-04T15:12:23.322Z\n"
+"PO-Revision-Date: 2018-10-25T09:02:35.143Z\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ID"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Azure URL"
+msgstr ""
+
+msgid "Period"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Data Element"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Follow Up"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Action Description"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Contact Emails"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Select at least one organisation unit"
+msgstr ""
+
+msgid "Cannot be blank: {{fieldName}}"
+msgstr ""
+
+msgid "No disaggregations selected"
+msgstr ""
+
+msgid "This analysis is not available for this module"
+msgstr ""
+
+msgid "Open analysis"
+msgstr ""
+
+msgid "Mark as Complete"
+msgstr ""
+
+msgid "Mark as In Progress"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Dataset"
+msgstr ""
+
+msgid "Start Date"
+msgstr ""
+
+msgid "End Date"
+msgstr ""
+
+msgid "New Data Quality Report"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Module"
+msgstr ""
+
+msgid "Save Config Analysis"
+msgstr ""
+
+msgid ""
+"No user with Capture rights and Organisation Unit or Region associated to "
+"the issue was found"
+msgstr ""
+
+msgid "Updating Issue..."
+msgstr ""
+
+msgid "Issue Updated"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Double click to edit"
+msgstr ""
+
+msgid "Issue"
+msgstr ""
+
+msgid "{{countryNames}} and {{moreCountriesCount}} more"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Issue Number"
+msgstr ""
+
+msgid "Countries"
+msgstr ""
+
+msgid "Periods"
+msgstr ""
+
+msgid "Step"
+msgstr ""
+
+msgid "Copying Contact Emails and marking for Follow-Up"
+msgstr ""
+
+msgid "Contact emails copied"
+msgstr ""
+
+msgid "Exporting Issues..."
+msgstr ""
+
+msgid "Issues exported"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Extend Follow-Up + Contact Emails"
+msgstr ""
+
+msgid "Back"
+msgstr "Volver"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Running analysis..."
+msgstr ""
+
+msgid "Creating Data Quality Report..."
+msgstr ""
+
+msgid "Quality Analysis created"
+msgstr ""
+
+msgid "Removing..."
+msgstr ""
+
+msgid "Quality Analysis deleted"
+msgstr ""
+
+msgid "Updating Status..."
+msgstr ""
+
+msgid "Quality Analysis updated"
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
+msgid "Analysis"
+msgstr ""
+
+msgid "Data Quality Analysis"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "You must save the Analysis configuration before running any step"
+msgstr ""
+
+msgid "Algorithm"
+msgstr ""
+
+msgid "Threshold"
+msgstr ""
+
+msgid "CatCombos"
+msgstr ""
+
+msgid "Disaggregations"
+msgstr ""
+
+msgid "Double Counts Threshold"
+msgstr ""
+
+msgid "The selected step is not available for the selected module"
+msgstr ""
+
+msgid "Validation Rule Group"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "Run to get results"
+msgstr ""
+
+msgid "No Issues found"
+msgstr ""
+
+msgid "Are you sure you want to {{action}} the selected rows?"
+msgstr ""
+
+msgid "Yes, {{actionButton}}"
+msgstr ""
+
+msgid "Progress"
+msgstr ""
+
+msgid "Last Modification"
+msgstr ""
+
+#~ msgid "Add"
+#~ msgstr "Añadir"
+
+#~ msgid "List"
+#~ msgstr "Listar"
+
+#~ msgid "Hello {{name}}"
+#~ msgstr "Hola {{name}}"

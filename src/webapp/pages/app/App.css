@@ -1,0 +1,29 @@
+html {
+    background-color: #f3f3f3;
+    font-family: Roboto, Arial, sans-serif;
+    overflow-y: scroll;
+}
+
+body {
+    margin: 0;
+}
+
+li {
+    line-height: 1.75;
+}
+
+.config-form-selector > div {
+    min-height: 40px !important;
+}
+
+.config-form-selector > label {
+    color: #494949;
+    font-size: 1em;
+    top: 0 !important;
+}
+
+.config-form-selector.disabled > div {
+    cursor: none;
+    opacity: 0.7;
+    pointer-events: none !important;
+}
